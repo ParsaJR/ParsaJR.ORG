@@ -1,6 +1,12 @@
-# Content v2 Minimal Starter
+# My Personal Blog/Website
 
-Look at the [Content documentation](https://content.nuxt.com/) to learn more.
+## Notable Tools
+
+- Vue 3
+- Nuxt 3
+- Nuxt-Content 2
+- Tailwind CSS
+- [And ...](https://github.com/ParsaJR/ParsaJR.ORG/blob/main/package.json)
 
 ## Setup
 
